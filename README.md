@@ -2,7 +2,7 @@
 
 <img src="#">
 
-Para acessar o site clique <a href="https://rotocolos-gerafisio.netlify.app" target="_blank">aqui.</a>
+Para acessar o site clique <a href="https://protocolos-gerafisio.netlify.app" target="_blank">aqui.</a>
 
 ## Sobre
 
