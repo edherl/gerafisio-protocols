@@ -1,5 +1,5 @@
 body {
-  font-size: 14px;
+  font-size: 16px;
   line-height: 1.8;
   background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' version='1.1' xmlns:xlink='http://www.w3.org/1999/xlink' xmlns:svgjs='http://svgjs.com/svgjs' width='1440' height='560' preserveAspectRatio='none' viewBox='0 0 1440 560'%3e%3cg mask='url(%26quot%3b%23SvgjsMask1020%26quot%3b)' fill='none'%3e%3cpath d='M672.94-49.16C559.13-46.33 480.95 106.38 248.2 115.07 15.44 123.76-57.31 327.2-176.55 333.47' stroke='rgba(158%2c 158%2c 158%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1232.22-32.19C1032.53-23 875.47 318.24 513.62 318.54 151.77 318.84-19.83 140.68-204.98 139.34' stroke='rgba(158%2c 158%2c 158%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M919.15-6.66C758.83 0.3 655.17 259.19 339.83 269.73 24.49 280.27-84.26 489.88-239.49 493.73' stroke='rgba(158%2c 158%2c 158%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1255.73-102.93C1074.77-100.51 923.24 107.31 564.16 110.95 205.08 114.59 50.84 283.23-127.41 284.55' stroke='rgba(158%2c 158%2c 158%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3cpath d='M1066.85-21.24C952.51-7.41 975.46 249.58 694.29 249.78 413.12 249.98 138.98 104.86-50.82 104.18' stroke='rgba(158%2c 158%2c 158%2c 0.1)' stroke-width='2'%3e%3c/path%3e%3c/g%3e%3cdefs%3e%3cmask id='SvgjsMask1020'%3e%3crect width='1440' height='560' fill='white'%3e%3c/rect%3e%3c/mask%3e%3c/defs%3e%3c/svg%3e");
   background-repeat: no-repeat;
@@ -81,6 +81,9 @@ thead tr td {
 }
 
 @media (max-width: 744px) {
+  body {
+    font-size: 14px;
+  }
   .list {
     display: flex;
     flex-direction: column;
