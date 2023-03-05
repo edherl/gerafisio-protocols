@@ -6,7 +6,7 @@ Para acessar o site clique <a href="https://protocolos-uepg.netlify.app" target=
 
 ## Sobre
 
-Site elaborado para os alunos e docentes do programa de pós graduação da UEPG e HU/UEPG acessarem de forma simples e rápida suas avaliações físicas.
+Site elaborado para os alunos e docentes do programa de pós-graduação da UEPG e HU/UEPG acessarem de forma simples e rápida suas avaliações físicas.
 
 No site, os profissionais encontrarão informações sobre as os protocolos de avaliação física padrão do LAFISE/UEPG e HU/UEPG.
 
